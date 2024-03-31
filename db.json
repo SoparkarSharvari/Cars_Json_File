@@ -1,602 +1,529 @@
 [
   {
     "id": 1,
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "publication_year": 1960,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
     "genre": [
-      "Fiction",
-      "Classic"
+      "Drama"
     ],
-    "description": "A classic novel depicting racial injustice in the American South.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 9.3,
+    "director": "Frank Darabont",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "plot": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://fakeimg.pl/220x310/ff0000",
+    "trailer": "https://example.com/shawshank_redemption_trailer.mp4",
+    "runtime": 142,
+    "awards": "Nominated for 7 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$28.3 million",
+    "production": "Columbia Pictures",
+    "website": "http://www.warnerbros.com/movies/shawshank-redemption"
   },
   {
     "id": 2,
-    "title": "1984",
-    "author": "George Orwell",
-    "publication_year": 1949,
+    "title": "The Godfather",
+    "year": 1972,
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Crime",
+      "Drama"
     ],
-    "description": "A dystopian novel portraying a totalitarian society.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://fakeimg.pl/220x310/ffff00",
+    "trailer": "https://example.com/the_godfather_trailer.mp4",
+    "runtime": 175,
+    "awards": "Won 3 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$245.1 million",
+    "production": "Paramount Pictures",
+    "website": "https://www.paramountmovies.com/movies/the-godfather"
   },
   {
     "id": 3,
-    "title": "Pride and Prejudice",
-    "author": "Jane Austen",
-    "publication_year": 1813,
+    "title": "The Dark Knight",
+    "year": 2008,
     "genre": [
-      "Classic",
-      "Romance"
+      "Action",
+      "Crime",
+      "Drama"
     ],
-    "description": "A classic novel exploring themes of love, marriage, and social norms.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 9,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Gary Oldman"
+    ],
+    "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "poster": "https://fakeimg.pl/220x310/ff00ff",
+    "trailer": "https://example.com/the_dark_knight_trailer.mp4",
+    "runtime": 152,
+    "awards": "Won 2 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$1.005 billion",
+    "production": "Warner Bros. Pictures",
+    "website": "https://www.warnerbros.com/movies/dark-knight"
   },
   {
     "id": 4,
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "publication_year": 1925,
+    "title": "Pulp Fiction",
+    "year": 1994,
     "genre": [
-      "Fiction",
-      "Classic"
+      "Crime",
+      "Drama"
     ],
-    "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.9,
+    "director": "Quentin Tarantino",
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "plot": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster": "https://fakeimg.pl/220x310/0000ff",
+    "trailer": "https://example.com/pulp_fiction_trailer.mp4",
+    "runtime": 154,
+    "awards": "Won 1 Oscar",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$213.9 million",
+    "production": "Miramax Films",
+    "website": "https://www.miramax.com/movie/pulp-fiction"
   },
   {
     "id": 5,
-    "title": "Moby-Dick",
-    "author": "Herman Melville",
-    "publication_year": 1851,
+    "title": "Forrest Gump",
+    "year": 1994,
     "genre": [
-      "Fiction",
-      "Adventure"
+      "Drama",
+      "Romance"
     ],
-    "description": "The epic tale of Captain Ahab's obsession with the white whale.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.8,
+    "director": "Robert Zemeckis",
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "poster": "https://fakeimg.pl/220x310/ff00ff",
+    "trailer": "https://example.com/forrest_gump_trailer.mp4",
+    "runtime": 142,
+    "awards": "Won 6 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$677.9 million",
+    "production": "Paramount Pictures",
+    "website": "https://www.paramountmovies.com/movies/forrest-gump"
   },
   {
     "id": 6,
-    "title": "The Lord of the Rings",
-    "author": "J.R.R. Tolkien",
-    "publication_year": 1954,
+    "title": "Inception",
+    "year": 2010,
     "genre": [
-      "Fantasy",
-      "Adventure"
+      "Action",
+      "Adventure",
+      "Sci-Fi"
     ],
-    "description": "An epic fantasy saga about the quest to destroy the One Ring.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "poster": "https://fakeimg.pl/220x310/f8f8f8",
+    "trailer": "https://example.com/inception_trailer.mp4",
+    "runtime": 148,
+    "awards": "Won 4 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$829.9 million",
+    "production": "Warner Bros. Pictures",
+    "website": "https://www.warnerbros.com/movies/inception"
   },
   {
     "id": 7,
-    "title": "The Catcher in the Rye",
-    "author": "J.D. Salinger",
-    "publication_year": 1951,
+    "title": "The Matrix",
+    "year": 1999,
     "genre": [
-      "Fiction",
-      "Coming-of-age"
+      "Action",
+      "Sci-Fi"
     ],
-    "description": "A classic coming-of-age novel following Holden Caulfield's journey.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.7,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://fakeimg.pl/220x310/f6f6f6",
+    "trailer": "https://example.com/the_matrix_trailer.mp4",
+    "runtime": 136,
+    "awards": "Won 4 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$463.5 million",
+    "production": "Warner Bros. Pictures",
+    "website": "https://www.warnerbros.com/movies/matrix"
   },
   {
     "id": 8,
-    "title": "The Hobbit",
-    "author": "J.R.R. Tolkien",
-    "publication_year": 1937,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
     "genre": [
-      "Fantasy",
-      "Adventure"
+      "Adventure",
+      "Drama",
+      "Fantasy"
     ],
-    "description": "The prequel to The Lord of the Rings, following Bilbo Baggins' journey.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.9,
+    "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "poster": "https://fakeimg.pl/220x310/ff00ff",
+    "trailer": "https://example.com/lotr_return_of_the_king_trailer.mp4",
+    "runtime": 201,
+    "awards": "Won 11 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$1.142 billion",
+    "production": "New Line Cinema",
+    "website": "https://www.lordoftherings.net/film/the-return-of-the-king"
   },
   {
     "id": 9,
-    "title": "One Hundred Years of Solitude",
-    "author": "Gabriel Garcia Marquez",
-    "publication_year": 1967,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
     "genre": [
-      "Magical Realism",
-      "Literary Fiction"
+      "Action",
+      "Thriller"
     ],
-    "description": "A multi-generational saga of the Buendía family in the fictional town of Macondo.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.4,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Tom Hardy"
+    ],
+    "plot": "Eight years after the Joker's reign of anarchy, Batman is forced out of retirement to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "poster": "https://fakeimg.pl/220x310/f6f6f6",
+    "trailer": "https://example.com/the_dark_knight_rises_trailer.mp4",
+    "runtime": 165,
+    "awards": "Nominated for 2 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$1.081 billion",
+    "production": "Warner Bros. Pictures",
+    "website": "http://www.warnerbros.com/movies/the-dark-knight-rises"
   },
   {
     "id": 10,
-    "title": "War and Peace",
-    "author": "Leo Tolstoy",
-    "publication_year": 1869,
+    "title": "Interstellar",
+    "year": 2014,
     "genre": [
-      "Historical Fiction",
-      "Epic"
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
     ],
-    "description": "A monumental work depicting the events of Russian society during the Napoleonic era.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.6,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway"
+    ],
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://fakeimg.pl/220x310/0000ff",
+    "trailer": "https://example.com/interstellar_trailer.mp4",
+    "runtime": 169,
+    "awards": "Won 1 Oscar",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$677.5 million",
+    "production": "Paramount Pictures",
+    "website": "http://www.paramount.com/movies/interstellar"
   },
   {
     "id": 11,
-    "title": "The Odyssey",
-    "author": "Homer",
-    "publication_year": "8th century BCE",
+    "title": "Fight Club",
+    "year": 1999,
     "genre": [
-      "Epic",
-      "Mythology"
+      "Drama"
     ],
-    "description": "An ancient Greek epic poem recounting Odysseus' ten-year journey home after the Trojan War.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.8,
+    "director": "David Fincher",
+    "actors": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "plot": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "poster": "https://fakeimg.pl/220x310/ff00ff",
+    "trailer": "https://example.com/fight_club_trailer.mp4",
+    "runtime": 139,
+    "awards": "Nominated for 1 Oscar",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$100.9 million",
+    "production": "20th Century Fox",
+    "website": "https://www.foxmovies.com/movies/fight-club"
   },
   {
     "id": 12,
-    "title": "The Divine Comedy",
-    "author": "Dante Alighieri",
-    "publication_year": "1320",
+    "title": "Gladiator",
+    "year": 2000,
     "genre": [
-      "Epic",
-      "Poetry"
+      "Action",
+      "Adventure",
+      "Drama"
     ],
-    "description": "An epic poem that follows the journey of the soul through Hell, Purgatory, and Heaven.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.5,
+    "director": "Ridley Scott",
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "poster": "https://fakeimg.pl/220x310/f8f8f8",
+    "trailer": "https://example.com/gladiator_trailer.mp4",
+    "runtime": 155,
+    "awards": "Won 5 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$460.5 million",
+    "production": "DreamWorks Pictures",
+    "website": "https://www.dreamworks.com/movies/gladiator"
   },
   {
     "id": 13,
-    "title": "The Brothers Karamazov",
-    "author": "Fyodor Dostoevsky",
-    "publication_year": 1880,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
     "genre": [
-      "Classic",
-      "Philosophical Fiction"
+      "Adventure",
+      "Drama",
+      "Fantasy"
     ],
-    "description": "A complex novel exploring themes of spirituality, morality, and human nature.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.7,
+    "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen"
+    ],
+    "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "poster": "https://fakeimg.pl/220x310/f6f6f6",
+    "trailer": "https://example.com/lotr_two_towers_trailer.mp4",
+    "runtime": 179,
+    "awards": "Won 2 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$951.2 million",
+    "production": "New Line Cinema",
+    "website": "https://www.lordoftherings.net/film/the-two-towers"
   },
   {
     "id": 14,
-    "title": "Crime and Punishment",
-    "author": "Fyodor Dostoevsky",
-    "publication_year": 1866,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
     "genre": [
-      "Classic",
-      "Psychological Fiction"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "description": "A psychological thriller revolving around guilt, conscience, and redemption.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.6,
+    "director": "Jonathan Demme",
+    "actors": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Lawrence A. Bonney"
+    ],
+    "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "poster": "https://fakeimg.pl/220x310/0000ff",
+    "trailer": "https://example.com/silence_of_the_lambs_trailer.mp4",
+    "runtime": 118,
+    "awards": "Won 5 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$272.7 million",
+    "production": "Orion Pictures",
+    "website": "https://www.mgm.com/movies/the-silence-of-the-lambs"
   },
   {
     "id": 15,
-    "title": "The Picture of Dorian Gray",
-    "author": "Oscar Wilde",
-    "publication_year": 1890,
+    "title": "The Departed",
+    "year": 2006,
     "genre": [
-      "Gothic",
-      "Philosophical Fiction"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
-    "description": "A novel about a man whose portrait ages while he retains his youth and beauty.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.5,
+    "director": "Martin Scorsese",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "poster": "https://fakeimg.pl/220x310/00ff00",
+    "trailer": "https://example.com/the_departed_trailer.mp4",
+    "runtime": 151,
+    "awards": "Won 4 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$289.8 million",
+    "production": "Warner Bros. Pictures",
+    "website": "https://www.warnerbros.com/movies/departed"
   },
   {
     "id": 16,
-    "title": "Brave New World",
-    "author": "Aldous Huxley",
-    "publication_year": 1932,
+    "title": "Saving Private Ryan",
+    "year": 1998,
     "genre": [
-      "Dystopian",
-      "Science Fiction"
+      "Drama",
+      "War"
     ],
-    "description": "A dystopian vision of a future society obsessed with pleasure and conformity.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.6,
+    "director": "Steven Spielberg",
+    "actors": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "poster": "https://fakeimg.pl/220x310/ff0000",
+    "trailer": "https://example.com/saving_private_ryan_trailer.mp4",
+    "runtime": 169,
+    "awards": "Won 5 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$482.3 million",
+    "production": "DreamWorks Pictures",
+    "website": "https://www.dreamworks.com/movies/saving-private-ryan"
   },
   {
     "id": 17,
-    "title": "The Count of Monte Cristo",
-    "author": "Alexandre Dumas",
-    "publication_year": 1844,
+    "title": "The Prestige",
+    "year": 2006,
     "genre": [
-      "Adventure",
-      "Historical Fiction"
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
     ],
-    "description": "An adventure novel of revenge, love, and redemption set in the early 19th century.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8.5,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "plot": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "poster": "https://fakeimg.pl/220x310/0000ff",
+    "trailer": "https://example.com/the_prestige_trailer.mp4",
+    "runtime": 130,
+    "awards": "Nominated for 2 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$109.7 million",
+    "production": "Warner Bros. Pictures",
+    "website": "https://www.warnerbros.com/movies/prestige"
   },
   {
     "id": 18,
-    "title": "Anna Karenina",
-    "author": "Leo Tolstoy",
-    "publication_year": 1877,
+    "title": "Glory",
+    "year": 1989,
     "genre": [
-      "Classic",
-      "Romance"
+      "Drama",
+      "History",
+      "War"
     ],
-    "description": "A tragic love story set against the backdrop of Russian high society.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 7.8,
+    "director": "Edward Zwick",
+    "actors": [
+      "Matthew Broderick",
+      "Denzel Washington",
+      "Cary Elwes"
+    ],
+    "plot": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army and the Confederates.",
+    "poster": "https://fakeimg.pl/220x310/00ff00",
+    "trailer": "https://example.com/glory_trailer.mp4",
+    "runtime": 122,
+    "awards": "Won 3 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$26.8 million",
+    "production": "TriStar Pictures",
+    "website": "https://www.sonypictures.com/movies/glory"
   },
   {
     "id": 19,
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "publication_year": 1988,
+    "title": "The Avengers",
+    "year": 2012,
     "genre": [
-      "Fiction",
-      "Philosophical"
+      "Action",
+      "Adventure",
+      "Sci-Fi"
     ],
-    "description": "A philosophical novel about a shepherd boy's journey to find his personal legend.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "rating": 8,
+    "director": "Joss Whedon",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "poster": "https://fakeimg.pl/220x310/ff0000",
+    "trailer": "https://example.com/the_avengers_trailer.mp4",
+    "runtime": 143,
+    "awards": "Nominated for 1 Oscar",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$1.518 billion",
+    "production": "Marvel Studios",
+    "website": "https://www.marvel.com/movies/the-avengers"
   },
   {
     "id": 20,
-    "title": "The Adventures of Huckleberry Finn",
-    "author": "Mark Twain",
-    "publication_year": 1884,
+    "title": "The Lion King",
+    "year": 1994,
     "genre": [
+      "Animation",
       "Adventure",
-      "Satire"
-    ],
-    "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 21,
-    "title": "The Iliad",
-    "author": "Homer",
-    "publication_year": "8th century BCE",
-    "genre": [
-      "Epic",
-      "Mythology"
-    ],
-    "description": "An ancient Greek epic poem about the Trojan War and the hero Achilles.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 22,
-    "title": "The Lord of the Rings",
-    "author": "J.R.R. Tolkien",
-    "publication_year": 1954,
-    "genre": [
-      "Fantasy",
-      "Adventure"
-    ],
-    "description": "A thrilling epic about the quest to destroy the One Ring and save Middle-earth from the dark lord Sauron.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 23,
-    "title": "Don Quixote",
-    "author": "Miguel de Cervantes",
-    "publication_year": 1605,
-    "genre": [
-      "Classic",
-      "Satire"
-    ],
-    "description": "A satirical novel about a deluded knight and his faithful squire, Sancho Panza.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 24,
-    "title": "Frankenstein",
-    "author": "Mary Shelley",
-    "publication_year": 1818,
-    "genre": [
-      "Gothic",
-      "Science Fiction"
-    ],
-    "description": "A novel about the creation of a monster and the consequences of playing god.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 25,
-    "title": "Alice's Adventures in Wonderland",
-    "author": "Lewis Carroll",
-    "publication_year": 1865,
-    "genre": [
-      "Fantasy",
-      "Children's Literature"
-    ],
-    "description": "A whimsical tale about a girl named Alice who falls into a magical world.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 26,
-    "title": "The Little Prince",
-    "author": "Antoine de Saint-Exupéry",
-    "publication_year": 1943,
-    "genre": [
-      "Fable",
-      "Children's Literature"
-    ],
-    "description": "A philosophical novella about a young prince's journey through the universe.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 27,
-    "title": "The Book Thief",
-    "author": "Markus Zusak",
-    "publication_year": 2005,
-    "genre": [
-      "Historical Fiction",
-      "War"
-    ],
-    "description": "A story of a girl living in Nazi Germany, narrated by Death.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 28,
-    "title": "Slaughterhouse-Five",
-    "author": "Kurt Vonnegut",
-    "publication_year": 1969,
-    "genre": [
-      "Satire",
-      "Science Fiction"
-    ],
-    "description": "An anti-war novel that mixes science fiction and dark humor.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 29,
-    "title": "The Grapes of Wrath",
-    "author": "John Steinbeck",
-    "publication_year": 1939,
-    "genre": [
-      "Historical Fiction",
-      "Social Commentary"
-    ],
-    "description": "A novel about the plight of migrant workers during the Great Depression.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 30,
-    "title": "Fahrenheit 451",
-    "author": "Ray Bradbury",
-    "publication_year": 1953,
-    "genre": [
-      "Dystopian",
-      "Science Fiction"
-    ],
-    "description": "A dystopian novel depicting a future society where books are banned.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 31,
-    "title": "The Lord of the Flies",
-    "author": "William Golding",
-    "publication_year": 1954,
-    "genre": [
-      "Dystopian",
-      "Psychological Fiction"
-    ],
-    "description": "A novel about a group of British boys stranded on an uninhabited island.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 32,
-    "title": "The Hitchhiker's Guide to the Galaxy",
-    "author": "Douglas Adams",
-    "publication_year": 1979,
-    "genre": [
-      "Science Fiction",
-      "Comedy"
-    ],
-    "description": "A comedic science fiction series about the misadventures of Arthur Dent.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 33,
-    "title": "A Tale of Two Cities",
-    "author": "Charles Dickens",
-    "publication_year": 1859,
-    "genre": [
-      "Historical Fiction",
-      "Classic"
-    ],
-    "description": "A historical novel set during the French Revolution, exploring themes of sacrifice and resurrection.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 34,
-    "title": "The Chronicles of Narnia",
-    "author": "C.S. Lewis",
-    "publication_year": 1950,
-    "genre": [
-      "Fantasy",
-      "Children's Literature"
-    ],
-    "description": "A series of fantasy novels set in the magical land of Narnia.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 35,
-    "title": "The Handmaid's Tale",
-    "author": "Margaret Atwood",
-    "publication_year": 1985,
-    "genre": [
-      "Dystopian",
-      "Feminist Fiction"
-    ],
-    "description": "A dystopian novel set in a totalitarian society where women are subjugated.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 36,
-    "title": "The Name of the Rose",
-    "author": "Umberto Eco",
-    "publication_year": 1980,
-    "genre": [
-      "Historical Fiction",
-      "Mystery"
-    ],
-    "description": "A medieval mystery novel set in an Italian monastery.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 37,
-    "title": "The Trial",
-    "author": "Franz Kafka",
-    "publication_year": 1925,
-    "genre": [
-      "Absurdist Fiction",
-      "Existential"
-    ],
-    "description": "A surreal novel exploring themes of guilt, law, and justice.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 38,
-    "title": "The Kite Runner",
-    "author": "Khaled Hosseini",
-    "publication_year": 2003,
-    "genre": [
-      "Historical Fiction",
       "Drama"
     ],
-    "description": "A novel about friendship, redemption, and the impact of war in Afghanistan.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 39,
-    "title": "The Pillars of the Earth",
-    "author": "Ken Follett",
-    "publication_year": 1989,
-    "genre": [
-      "Historical Fiction",
-      "Adventure"
+    "rating": 8.5,
+    "director": "Roger Allers, Rob Minkoff",
+    "actors": [
+      "Matthew Broderick",
+      "Jeremy Irons",
+      "James Earl Jones"
     ],
-    "description": "An epic historical novel set in 12th-century England, centered around the construction of a cathedral.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 40,
-    "title": "The Shadow of the Wind",
-    "author": "Carlos Ruiz Zafón",
-    "publication_year": 2001,
-    "genre": [
-      "Mystery",
-      "Gothic"
-    ],
-    "description": "A mystery novel set in post-war Barcelona, revolving around a forgotten book and its author.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 41,
-    "title": "The Secret Garden",
-    "author": "Frances Hodgson Burnett",
-    "publication_year": 1911,
-    "genre": [
-      "Children's Literature",
-      "Classic"
-    ],
-    "description": "A classic children's novel about a young girl who discovers a hidden garden.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 42,
-    "title": "The Giver",
-    "author": "Lois Lowry",
-    "publication_year": 1993,
-    "genre": [
-      "Dystopian",
-      "Young Adult"
-    ],
-    "description": "A dystopian novel about a society with strict control over emotions and memories.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 43,
-    "title": "The Metamorphosis",
-    "author": "Franz Kafka",
-    "publication_year": 1915,
-    "genre": [
-      "Absurdist Fiction",
-      "Existential"
-    ],
-    "description": "A novella about a man who wakes up one morning transformed into a giant insect.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 44,
-    "title": "Gone with the Wind",
-    "author": "Margaret Mitchell",
-    "publication_year": 1936,
-    "genre": [
-      "Historical Fiction",
-      "Romance"
-    ],
-    "description": "A historical novel set during the American Civil War, centered around Scarlett O'Hara.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 45,
-    "title": "The Wind in the Willows",
-    "author": "Kenneth Grahame",
-    "publication_year": 1908,
-    "genre": [
-      "Children's Literature",
-      "Fantasy"
-    ],
-    "description": "A children's novel about the adventures of anthropomorphic animals.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 46,
-    "title": "Dracula",
-    "author": "Bram Stoker",
-    "publication_year": 1897,
-    "genre": [
-      "Gothic",
-      "Horror"
-    ],
-    "description": "A Gothic horror novel about the vampire Count Dracula's attempt to move to England.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 47,
-    "title": "The Call of the Wild",
-    "author": "Jack London",
-    "publication_year": 1903,
-    "genre": [
-      "Adventure",
-      "Nature"
-    ],
-    "description": "An adventure novel about a domestic dog's life in the wilds of the Yukon.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 48,
-    "title": "The Stand",
-    "author": "Stephen King",
-    "publication_year": 1978,
-    "genre": [
-      "Horror",
-      "Post-Apocalyptic"
-    ],
-    "description": "A post-apocalyptic horror novel about a deadly pandemic and its aftermath.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 49,
-    "title": "The Color Purple",
-    "author": "Alice Walker",
-    "publication_year": 1982,
-    "genre": [
-      "Fiction",
-      "Historical"
-    ],
-    "description": "A novel about the life of African-American women in the Southern United States.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
-  },
-  {
-    "id": 50,
-    "title": "The Silmarillion",
-    "author": "J.R.R. Tolkien",
-    "publication_year": 1977,
-    "genre": [
-      "Fantasy",
-      "Mythopoeia"
-    ],
-    "description": "A collection of mythopoeic stories about the history of Middle-earth.",
-    "cover_image": "https://fakeimg.pl/667x1000/cc6600"
+    "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "poster": "https://fakeimg.pl/220x310/0000ff",
+    "trailer": "https://example.com/the_lion_king_trailer.mp4",
+    "runtime": 88,
+    "awards": "Won 2 Oscars",
+    "country": "USA",
+    "language": "English",
+    "boxOffice": "$968.5 million",
+    "production": "Walt Disney Pictures",
+    "website": "https://movies.disney.com/the-lion-king"
   }
 ]
