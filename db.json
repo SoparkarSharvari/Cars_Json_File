@@ -1,79 +1,67 @@
 [
   {
-    "id": 1,
-    "title": "The Shawshank Redemption",
-    "year": 1994,
-    "genre": [
-      "Drama"
-    ],
-    "rating": 9.3,
-    "director": "Frank Darabont",
-    "actors": [
-      "Tim Robbins",
-      "Morgan Freeman"
-    ],
-    "plot": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
-    "poster": "https://fakeimg.pl/220x310/ff0000",
-    "trailer": "https://example.com/shawshank_redemption_trailer.mp4",
-    "runtime": 142,
-    "awards": "Nominated for 7 Oscars",
-    "country": "USA",
-    "language": "English",
-    "boxOffice": "$28.3 million",
-    "production": "Columbia Pictures",
-    "website": "http://www.warnerbros.com/movies/shawshank-redemption"
+    "brand": "ford",
+    "model": [
+      {
+        "name": "gt",
+        "url": "https://www.ford.com/performance/gt/",
+        "image": "https://cdn.motor1.com/images/mgl/o8V7q/s1/2019-ford-gt-carbon-series.jpg"
+      },
+      {
+        "name": "Mustang",
+        "url": "https://www.ford.com/cars/mustang/",
+        "image": "https://www.ford.com/cmslibs/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2019/collections/highlights/3-2/19mst_highlight_thefeel_219.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "name": "f950",
+        "url": "https://www.ford.com/commercial-trucks/f650-f750/",
+        "image": "https://i.pinimg.com/originals/a8/4c/84/a84c84175bf1c7ed023720e4c390617e.jpg"
+      }
+    ]
   },
   {
-    "id": 2,
-    "title": "The Godfather",
-    "year": 1972,
-    "genre": [
-      "Crime",
-      "Drama"
-    ],
-    "rating": 9.2,
-    "director": "Francis Ford Coppola",
-    "actors": [
-      "Marlon Brando",
-      "Al Pacino",
-      "James Caan"
-    ],
-    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-    "poster": "https://fakeimg.pl/220x310/ffff00",
-    "trailer": "https://example.com/the_godfather_trailer.mp4",
-    "runtime": 175,
-    "awards": "Won 3 Oscars",
-    "country": "USA",
-    "language": "English",
-    "boxOffice": "$245.1 million",
-    "production": "Paramount Pictures",
-    "website": "https://www.paramountmovies.com/movies/the-godfather"
+    "brand": "bmw",
+    "model": [
+      {
+        "name": "8",
+        "url": "https://www.bmw.com/en/bmw-models/bmw-8-series-gran-coupe.html",
+        "image": "https://www.bmw.com.tr/content/dam/bmw/common/all-models/8-series/coupe/2018/at-a-glance/bmw-8series-coupe-sp-xxl.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1527669998791.jpg"
+      },
+      {
+        "name": "vision",
+        "url": "https://www.bmw.com/en/innovation/bmw-vision-m-next.html",
+        "image": "https://images.netdirector.co.uk/gforces-auto/image/upload/w_412,h_309,dpr_2.0,q_auto,c_fill,f_auto,fl_lossy/auto-client/295730c6112ec306b0369316ee3843c5/the_bmw_vision_next_100_2.jpeg"
+      }
+    ]
   },
   {
-    "id": 3,
-    "title": "The Dark Knight",
-    "year": 2008,
-    "genre": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "rating": 9,
-    "director": "Christopher Nolan",
-    "actors": [
-      "Christian Bale",
-      "Heath Ledger",
-      "Gary Oldman"
-    ],
-    "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-    "poster": "https://fakeimg.pl/220x310/ff00ff",
-    "trailer": "https://example.com/the_dark_knight_trailer.mp4",
-    "runtime": 152,
-    "awards": "Won 2 Oscars",
-    "country": "USA",
-    "language": "English",
-    "boxOffice": "$1.005 billion",
-    "production": "Warner Bros. Pictures",
-    "website": "https://www.warnerbros.com/movies/dark-knight"
+    "brand": "mercedes",
+    "model": [
+      {
+        "name": "slc",
+        "url": "https://www.mercedes-benz.com.tr/passengercars/mercedes-benz-cars/models/slc/slc-roadster/explore.html",
+        "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my19/slc/byo/options/2019-SLC-ROADSTER-013.jpg"
+      },
+      {
+        "name": "cla",
+        "url": "https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/cla/",
+        "image": "https://www.mercedes-benz.com.tr/passengercars/mercedes-benz-cars/models/cla/cla-coupe/explore/concept-intro/_jcr_content/contentgallerycontainer/par/contentgallery_c8fa/par/contentgallerytile_e/image.MQ6.8.20180122133037.jpeg"
+      }
+    ]
+  },
+  {
+    "brand": "audi",
+    "model": [
+      {
+        "name": "a4",
+        "url": "https://www.audi.com/en/experience-audi/models-and-technology/serial-models/a4.html",
+        "image": "https://www.audi.com.tr/dam/nemo/models/a4/a4-limousine/my-2019/1920x1080_MTC_XL/1920x1080_MTC_framed_AA4_L_181015.jpg"
+      },
+      {
+        "name": "aime",
+        "url": "https://www.audi.com/en/experience-audi/models-and-technology/concept-cars/audi-aime.html",
+        "image": "https://www.audi.com/content/dam/gbp2/experience-audi/models-and-technology/concept-cars/2019/aime/1920x600-desktop-concept-cars-audi-aime-2019-teaser.jpg?"
+      }
+    ]
   }
 ]
